@@ -2,6 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elliot-Chin&show_icons=true&theme=cobalt)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elliot-Chin)](https://github.com/Elliot-Chin/github-readme-stats)
+
+
 
 
 <!--
